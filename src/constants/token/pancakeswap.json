@@ -1,0 +1,222 @@
+{
+    "name": "pancakeswap",
+    "timestamp": "2020-08-25T15:41:29.665Z",
+    "version": {
+      "major": 1,
+      "minor": 3,
+      "patch": 1
+    },
+    "tags": {},
+    "logoURI": "/images/coins/wbnb.png",
+    "keywords": ["pancake", "default"],
+    "tokens": [
+      {
+        "name": "CHIKU INI",
+        "symbol": "CHIKUINU",
+        "address": "0x2C14CBffD9963C17fF65028C52f75Ea6f14205Ff",
+        "chainId": 56,
+        "decimals": 4,
+        "logoURI": "/images/coins/chikuinu.png"
+      },
+      {
+        "name": "WBNB Token",
+        "symbol": "WBNB",
+        "address": "0xae13d989dac2f0debff460ac112a837c89baa7cd",
+        "chainId": 97,
+        "decimals": 18,
+        "logoURI": "/images/coins/BUSD.png"
+      },
+      {
+        "name": "WBNB Token",
+        "symbol": "WBNB",
+        "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "chainId": 56,
+        "decimals": 18
+      },
+      {
+        "name": "LP3 Token",
+        "symbol": "LP3",
+        "address": "0xe70b7523f4bffa1f2e88d2ba709afd026030f412",
+        "chainId": 97,
+        "decimals": 18,
+        "logoURI": "/images/coins/ETH.png"
+      },
+      {
+        "name": "BUSD Token",
+        "symbol": "BUSD",
+        "address": "0x615446C0Fd5eA8A5FD7fb763f3FC2C58774474F3",
+        "chainId": 97,
+        "decimals": 18,
+        "logoURI": "/images/coins/BTC.png"
+      },
+      {
+        "name": "BUSD Token",
+        "symbol": "BUSD",
+        "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "/images/coins/BUSD.png"
+      },
+      {
+        "name": "Binance Peg Ethereum Token",
+        "symbol": "ETH",
+        "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "/images/coins/ETH.png"
+      },
+      {
+        "name": "BTCB Token",
+        "symbol": "BTCB",
+        "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "/images/coins/BTC-icon.png"
+      },
+      {
+        "name": "Binance Peg Shina-INU Token",
+        "symbol": "SHIB",
+        "address": "0x2859e4544c4bb03966803b044a93563bd2d0dd4d",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "/images/coins/shib.png"
+      },
+      {
+        "name": "Binance Peg EOS Token",
+        "symbol": "EOS",
+        "address": "0x56b6fb708fc5732dec1afc8d8556423a2edccbd6",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "/images/coins/eos.png"
+      },
+      {
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "address": "0x55d398326f99059ff775485246999027b3197955",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "/images/coins/USDT-icon.png"
+      },
+      {
+        "name": "XRP Token",
+        "symbol": "XRP",
+        "address": "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "/images/coins/XRP-icon.png"
+      },
+      {
+        "name": "Bitcoin Cash Token",
+        "symbol": "BCH",
+        "address": "0x8ff795a6f4d97e7887c79bea79aba5cc76444adf",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "/images/coins/BCH-icon.png"
+      },
+      {
+        "name": "Litecoin Token",
+        "symbol": "LTC",
+        "address": "0x4338665cbb7b2485a8855a139b75d5e34ab0db94",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "/images/coins/LTC-icon.png"
+      },
+      {
+        "name": "Cardano Token",
+        "symbol": "ADA",
+        "address": "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47",
+        "chainId": 56,
+        "decimals": 18
+      },
+      {
+        "name": "Safemoon",
+        "symbol": "ATOM",
+        "address": "0x42981d0bfbAf196529376EE702F2a9Eb9092fcB5",
+        "chainId": 56,
+        "decimals": 9,
+        "logoURI": "/images/coins/safemoon.png"
+      },
+      {
+        "name": "Alpaca Finance",
+        "symbol": "ALPACA",
+        "address": "0x8f0528ce5ef7b51152a59745befdd91d97091d2f",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "/images/coins/alpaca.png"
+      },
+      {
+        "name": "Matic Token",
+        "symbol": "MATIC",
+        "address": "0xcc42724c6683b7e57334c4e856f4c9965ed682bd",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "/images/coins/matic.png"
+      },
+      {
+        "name": "Zcash Token",
+        "symbol": "ZEC",
+        "address": "0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb",
+        "chainId": 56,
+        "decimals": 18
+      },
+      {
+        "name": "Dai Token",
+        "symbol": "DAI",
+        "address": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "/images/coins/DAI-icon.png"
+      },
+      {
+        "name": "Pancake Bunny",
+        "symbol": "BUNNY",
+        "address": "0xc9849e6fdb743d08faee3e34dd2d1bc69ea11a51",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "/images/coins/pancake-bunny.png"
+      },
+      {
+        "name": "Binance Peg Dogecoin",
+        "symbol": "DOGE",
+        "address": "0xba2ae424d960c26247dd6c32edc70b295c744c43",
+        "chainId": 56,
+        "decimals": 8,
+        "logoURI": "/images/coins/doge.png"
+      },
+      {
+        "name": "Binance Peg Ethereum Classic Token",
+        "symbol": "ETC",
+        "address": "0x3d6545b08693dae087e957cb1180ee38b9e3c25e",
+        "chainId": 56,
+        "decimals": 18
+      },
+      {
+        "name": "Polkadot Token",
+        "symbol": "DOT",
+        "address": "0x7083609fce4d1d8dc0c979aab8c869ea2c873402",
+        "chainId": 56,
+        "decimals": 18
+      },
+      {
+        "name": "PancakeSwap Token",
+        "symbol": "CAKE",
+        "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+        "chainId": 56,
+        "decimals": 18
+      },
+      {
+        "name": "Ankr",
+        "symbol": "ANKR",
+        "address": "0xf307910a4c7bbc79691fd374889b36d8531b08e3",
+        "chainId": 56,
+        "decimals": 18
+      },
+      {
+        "name": "Binance-Peg USD Coin",
+        "symbol": "USDC",
+        "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+        "chainId": 56,
+        "decimals": 18
+      }
+    ]
+  }
