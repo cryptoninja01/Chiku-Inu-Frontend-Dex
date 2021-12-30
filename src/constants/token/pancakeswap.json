@@ -217,6 +217,14 @@
         "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
         "chainId": 56,
         "decimals": 18
-      }
+      },
+      {
+        "name": "EverRise",
+        "symbol": "Rise",
+        "address": "0xc7d43f2b51f44f09fbb8a691a0451e8ffcf36c0a",
+        "chainId": 56,
+        "decimals": 9,
+        "logoURI": "/images/coins/rise.png"
+      },  
     ]
   }
