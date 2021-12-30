@@ -2454,14 +2454,14 @@ var socials = [
         items: [
             {
                 label: "Official Channel",
-                href: "https://twitter.com/chiku_inu",
+                href: "https://t.me/Chiku_Inu",
             },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://t.me/Chiku_Inu",
+        href: "https://twitter.com/chiku_inu",
     },
 ];
 var MENU_HEIGHT = 64;
