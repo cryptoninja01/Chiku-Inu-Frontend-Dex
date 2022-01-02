@@ -219,6 +219,14 @@
         "decimals": 18
       },
       {
+        "name": "SiaCashCoin Token",
+        "symbol": "SCC",
+        "address": "0xc26eafc627624badf990f8d30116892ed204db51",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "/images/coins/scc.png"  
+      },  
+      {
         "name": "EverRise",
         "symbol": "Rise",
         "address": "0x0cD022ddE27169b20895e0e2B2B8A33B25e63579",
