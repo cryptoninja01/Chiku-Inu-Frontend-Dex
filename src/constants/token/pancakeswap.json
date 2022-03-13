@@ -13,9 +13,9 @@
       {
         "name": "CHIKU INI",
         "symbol": "CHIKUINU",
-        "address": "0x2C14CBffD9963C17fF65028C52f75Ea6f14205Ff",
+        "address": "0xa5ddBF07b228fDae606107fda42E3556f2eb8a39",
         "chainId": 56,
-        "decimals": 4,
+        "decimals": 18,
         "logoURI": "/images/coins/chikuinu.png"
       },
       {
